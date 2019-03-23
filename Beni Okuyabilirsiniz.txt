@@ -1,0 +1,12 @@
+Öncelikle iyi çalýþmalar ben Emin Topal.
+Mail adresim : emin_topal_gs@hotmail.com
+
+Projeyi ciceksepeti.exe veya ciceksepeti.sln 
+dosyalarýndan açabilirsin tüm dosyalarý ve kod
+kýsýmlarý içindedir. Ýlk olarak yapmanýzý istediðim 
+kod kýsmýnýn 91. satýrýna kendi excel dosya yolunuzu
+yapýþtýrmanýzdýr. Kod baþarý bir þekilde çalýþýyor.
+Okulda öðrendiðimiz minimizasyon yöntemini uygulayarak
+en kýsa mesafe bulma algoritmasýný kullandým.Optimize iþlemini
+yaptýktan sonra diðer tüm tuþlarý kullanabilirsiniz.
+Çalýþýr halini bir image ile attým. Ýyi günler iyi çalýþmalar..
